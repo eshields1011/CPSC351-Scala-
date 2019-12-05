@@ -12,7 +12,11 @@ Scala can handle any range of tasks that need to be fulfilled by a programmer, f
 Sources
 
 https://www.educative.io/courses/learn-scala-from-scratch/39BnN6DMZxr
+
 https://en.wikipedia.org/wiki/Scala_(programming_language)
+
 https://www.geeksforgeeks.org/scala-programming-language/
+
 https://www.scala-lang.org/old/node/1658
+
 https://hackernoon.com/10-reasons-to-learn-scala-and-functional-programming-2fce385e6ec7
